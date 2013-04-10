@@ -1,5 +1,5 @@
 {
-    "name": "ghislainf/geonames-server",
+    "name": "joacub/geonames-server",
     "description": "ZF2 module, index geonames data & provides a search API using Elasticsearch",
     "version": "1.0.0",
     "type": "module",
@@ -11,11 +11,11 @@
         "elasticsearch",
         "module"
     ],
-    "homepage": "https://github.com/ghislainf/GeonamesServer",
+    "homepage": "https://github.com/joacub/GeonamesServer",
     "authors": [
         {
-            "name": "Ghislain de Fontenay",
-            "email": "ghislain.de.fontenay@gmail.com"
+            "name": "Johan",
+            "email": "joacub@gmail.com"
         }
     ],
     "require": {
